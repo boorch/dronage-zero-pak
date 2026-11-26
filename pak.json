@@ -1,0 +1,28 @@
+{
+  "name": "Dronage Zero",
+  "version": "v3.5.1",
+  "type": "TOOL",
+  "description": "PRO TIP: R1+Select is HELP. Dronage Zero is an ambient drone workstation with 4 oscillators, a mod matrix with 8 LFOs and rich effects such as a granular delay and a shimmer reverb. It is the \"eye-friendly\" version of Dronage Terminal, and the two share one project format: a project saved in either opens in the other. Projects, recordings, themes and user scales are kept in the DronageZero folder at the root of the SD card.",
+  "author": "boorch (Bruce Menace/Cometary Trails)",
+  "repo_url": "https://github.com/boorch/dronage-zero-pak",
+  "release_filename": "Dronage.Zero.pak.zip",
+  "platforms": [
+    "tg5040"
+  ],
+  "features": [
+    "IMPORTANT: Press R1+Select for the HELP screen",
+    "Five views (OSC, LFO, MOD, EFX, VIZ) switched with L4 and R4",
+    "4 macro oscillators, 35 synthesis engines",
+    "8 LFOs, a modulation matrix and a 5-track modulation sequencer",
+    "Stereo delay with granular mode, shimmer reverb, tape dirt, compressor",
+    "8 scenes per project, undo and redo, random rolls",
+    "Full-screen visualizers and an optional CRT look",
+    "Scala microtuning, 20 colour themes, WAV recording"
+  ],
+  "screenshots": [
+    ".github/screenshots/1-splash.png",
+    ".github/screenshots/2-osc.png",
+    ".github/screenshots/3-mod.png",
+    ".github/screenshots/4-viz.png"
+  ]
+}
