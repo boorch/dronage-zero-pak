@@ -29,5 +29,5 @@ root of the SD card.
 ![3-mod](.github/screenshots/3-mod.png)
 ![4-viz](.github/screenshots/4-viz.png)
 
-Freeware. See [EULA.txt](EULA.txt) and
+Licence: [EULA.txt](EULA.txt) and
 [THIRD-PARTY-LICENSES.txt](THIRD-PARTY-LICENSES.txt).
